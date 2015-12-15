@@ -2,6 +2,7 @@
 
 // CECI EST UN TEST DE PUSH DEPUIS GITHUB
 // Second test
+// test changement cloudpebble -> git
 
 static Window *main_window;
 TextLayer *output_layer;
