@@ -1,6 +1,7 @@
 #include <pebble.h>
 
 // CECI EST UN TEST DE PUSH DEPUIS GITHUB
+// Second test
 
 static Window *main_window;
 TextLayer *output_layer;
